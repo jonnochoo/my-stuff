@@ -5,7 +5,7 @@ choco install dropbox
 choco install evernote
 choco install fiddler
 choco install filezilla 
-choco install foxitreader
+choco install sumatrapdf
 choco install googlechrome
 choco install ilspy
 choco install keepass-classic

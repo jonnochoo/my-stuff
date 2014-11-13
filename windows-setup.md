@@ -6,7 +6,7 @@ General
 7-Zip
 Dropbox
 Evernote
-Foxit Reader
+Sumatra PDF
 Google Chrome
 KeePass
 Spotify
