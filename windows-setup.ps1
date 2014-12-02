@@ -19,3 +19,6 @@ choco install sublime
 choco install TortoiseGit
 choco install virtualbox 
 choco install windirstat
+choco install hipchat
+
+npm install azure-cli -g

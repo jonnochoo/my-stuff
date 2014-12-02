@@ -13,6 +13,7 @@ Spotify
 Skitch
 Launchy
 Plex*
+HipChat
 
 Languages
 -----------
