@@ -21,4 +21,5 @@ choco install virtualbox
 choco install windirstat
 choco install hipchat
 
+choco install vagrant
 npm install azure-cli -g
