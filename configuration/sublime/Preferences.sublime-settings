@@ -1,0 +1,10 @@
+{
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "folder_exclude_patterns": ["node_modules", "bower_components", ".git"],
+  "hot_exit": false,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
+}
