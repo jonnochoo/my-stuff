@@ -1,54 +1,53 @@
-Chocolatey
-
 General
 -------
 
-7-Zip
-Dropbox
-Evernote
-Sumatra PDF
-Google Chrome
-KeePass
-Spotify
-Skitch
-Launchy
-Plex*
-HipChat
+- 7-Zip
+- Dropbox
+- Evernote
+- Sumatra PDF
+- Google Chrome
+- KeePass
+- Spotify
+- Skitch
+- Launchy
+- Plex
+- HipChat
 
 Languages
 -----------
 
-Node.js
-Ruby?
-Python?
+- Node.js
+- Ruby
+- Python
 
 Development Tools
 -----------------
 
-Fiddler
-FileZilla
-Git
-ILSpy
-Sublime Text 2
-PoshGit
-TortoiseGit
+- Fiddler
+- FileZilla
+- Git
+- ILSpy
+- Sublime Text 2***
+- PoshGit
+- TortoiseGit
 
 Databases
 ---------
 
-RavenDB
-SQL Server Express
-Redis
-MongoDB
+- RavenDB
+- SQL Server Express
+- Redis
+- MongoDB
 
 Utilities
 ---------
 
-ConEmu*
-Virtual Box
-Terminals*
-CPU-Z
-WinDirStat
+- ConEmu*
+- Chocolatey
+- Virtual Box
+- Terminals**
+- CPU-Z
+- WinDirStat
 
 Alternatives
 -----------------
@@ -56,5 +55,5 @@ Alternatives
 Atom.io/Notepad2/Notepad++
 Console2/Cmder
 
-* These are installed from my DropBox as I have configuration settings.
-** Need to manually install
+* See https://github.com/jonnochoo/my-stuff/tree/master/configuration for configuration files
+** See DropBox
