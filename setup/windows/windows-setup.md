@@ -52,7 +52,7 @@ Utilities
 Alternatives
 -----------------
 
-Atom.io/Notepad2/Notepad++
+Atom.io/Notepad2/Notepad++/Brackets
 Console2/Cmder
 
 * See https://github.com/jonnochoo/my-stuff/tree/master/configuration for configuration files
