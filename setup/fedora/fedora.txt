@@ -10,3 +10,4 @@ yum install npm
 yum install nodejs
 yum install nginx
 yum install openssh
+yum install vim-X11 vim-common vim-enhanced vim-minimal
