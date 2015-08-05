@@ -1,10 +1,24 @@
 {
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "folder_exclude_patterns": ["node_modules", "bower_components", ".git"],
-  "hot_exit": false,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
+	"detect_indentation": false,
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"bower_components",
+		".git"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }
