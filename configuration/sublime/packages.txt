@@ -1,0 +1,7 @@
+autofilename
+emmet
+expand selection to quotes
+git
+gitgutter
+jade
+jshint gutter
