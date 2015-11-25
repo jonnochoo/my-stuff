@@ -4,6 +4,9 @@ timedatectl set-timezone Australia/Sydney
 # Install yum packages
 yum -y install npm nodejs nginx git vim
 
+# Install npm global packages
+npm -g install gulp pm2
+
 # Add nginx.conf
 include /etc/nginx/sites-enabled/*;
 
