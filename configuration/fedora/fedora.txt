@@ -1,13 +1,24 @@
-# Listing the time zones
-timedatectl list-timezones
-
 # Setting the time zone
-set-timezone Australia/Sydney
+timedatectl set-timezone Australia/Sydney
 
-# Packages
-yum install zsh
-yum install npm
-yum install nodejs
-yum install nginx
-yum install openssh
-yum install vim-X11 vim-common vim-enhanced vim-minimal
+# Install yum packages
+yum -y install npm nodejs nginx git vim
+
+# Add nginx.conf
+include /etc/nginx/sites-enabled/*;
+
+mkdir /etc/nginx/sites-enabled
+
+# Create nginx site configuration file
+
+{
+  listen 80;
+
+  server_name domain.com;
+
+  location / {
+    proxy_pass http://localhost:3000/;
+    proxy_set_header Host $host;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+  }
+}
