@@ -1,3 +1,5 @@
+# The global config can be found in ~/.gitconfig
+
 [alias]
   co = checkout
   ec = config --global -e
